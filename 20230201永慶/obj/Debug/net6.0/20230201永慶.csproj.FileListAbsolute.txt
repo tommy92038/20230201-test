@@ -60,3 +60,10 @@ E:\20230201永慶test\20230201-test\20230201永慶\obj\Debug\net6.0\refint\20230
 E:\20230201永慶test\20230201-test\20230201永慶\obj\Debug\net6.0\20230201永慶.pdb
 E:\20230201永慶test\20230201-test\20230201永慶\obj\Debug\net6.0\20230201永慶.genruntimeconfig.cache
 E:\20230201永慶test\20230201-test\20230201永慶\obj\Debug\net6.0\ref\20230201永慶.dll
+E:\20230201永慶test\20230201-test\20230201永慶\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\20230201永慶test\20230201-test\20230201永慶\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\20230201永慶test\20230201-test\20230201永慶\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\20230201永慶test\20230201-test\20230201永慶\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\20230201永慶test\20230201-test\20230201永慶\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\20230201永慶test\20230201-test\20230201永慶\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\20230201永慶test\20230201-test\20230201永慶\obj\Debug\net6.0\20230201永慶.csproj.CopyComplete
