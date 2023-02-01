@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\20230201永慶\\20230201永慶\\20230201永慶\\20230201永慶.csproj": {}
+    "E:\\20230201永慶test\\20230201-test\\20230201永慶\\20230201永慶.csproj": {}
   },
   "projects": {
-    "D:\\20230201永慶\\20230201永慶\\20230201永慶\\20230201永慶.csproj": {
+    "E:\\20230201永慶test\\20230201-test\\20230201永慶\\20230201永慶.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\20230201永慶\\20230201永慶\\20230201永慶\\20230201永慶.csproj",
+        "projectUniqueName": "E:\\20230201永慶test\\20230201-test\\20230201永慶\\20230201永慶.csproj",
         "projectName": "20230201永慶",
-        "projectPath": "D:\\20230201永慶\\20230201永慶\\20230201永慶\\20230201永慶.csproj",
-        "packagesPath": "C:\\Users\\Tommy\\.nuget\\packages\\",
-        "outputPath": "D:\\20230201永慶\\20230201永慶\\20230201永慶\\obj\\",
+        "projectPath": "E:\\20230201永慶test\\20230201-test\\20230201永慶\\20230201永慶.csproj",
+        "packagesPath": "C:\\Users\\陳明賢\\.nuget\\packages\\",
+        "outputPath": "E:\\20230201永慶test\\20230201-test\\20230201永慶\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Tommy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\陳明賢\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
